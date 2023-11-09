@@ -68,8 +68,7 @@
 
 <body> 
 	<div class="container"> 
-		<h1>GeeksforGeeks <br> 
-			Temperature Converter</h1> 
+		<h1> Temperature Converter</h1> 
 		<div class="converter-row"> 
 			<div class="col"> 
 				<label>Fahrenheit</label> 
